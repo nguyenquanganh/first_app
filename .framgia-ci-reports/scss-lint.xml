@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="1.5.6">
+  <file name="/home/quanganh/workspace/first_app/app/app/assets/stylesheets/application.css">
+    <error source="Comment" line="1" column="1" length="104" severity="warning" message="Use `//` comments everywhere" />
+  </file>
+</checkstyle>

@@ -1,0 +1,22 @@
+vi:
+  static_pages:
+    title: "Ruby on Rails Tutorial Sample App"
+    hello_world: "Xin chao"
+    home:
+      home1: "Trang chu"
+      d1: "Day la trang chu"
+      d2: "."
+      d3: "Ruby on Rails Tutorial"
+    help:
+      help1: "Giup Do"
+      dh1: "Tim su giup do o day "
+      dh2: "De nhan su ho tro, hay xem"
+      dh3: "Rails Tutorial help section"
+    about:
+      about0: "Lien He"
+      about1: " la "
+      about2: "va"
+      about3: "loat anh"
+      about4: "huong dan xay dung trang web"
+      about5: "Day la ung dung vi du."
+      about6: "sach"

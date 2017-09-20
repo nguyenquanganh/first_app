@@ -1,5 +1,8 @@
 vi:
   static_pages:
+    english: "Tieng Anh"
+    vietnam: "Tieng Viet"
+    news: "Tin Tuc"
     title: "Ruby on Rails Tutorial Sample App"
     hello_world: "Xin chao"
     home:
@@ -7,16 +10,28 @@ vi:
       d1: "Day la trang chu"
       d2: "."
       d3: "Ruby on Rails Tutorial"
+      alt: "Rails Logo"
     help:
       help1: "Giup Do"
       dh1: "Tim su giup do o day "
       dh2: "De nhan su ho tro, hay xem"
       dh3: "Rails Tutorial help section"
     about:
-      about0: "Lien He"
+      about0: "Xem Them"
       about1: " la "
       about2: "va"
       about3: "loat anh"
       about4: "huong dan xay dung trang web"
       about5: "Day la ung dung vi du."
       about6: "sach"
+      about7: " "
+    contact:
+      contact_0: "Lien He"
+      contact_1: "Lien he voi Ruby on Rails Tutorial ve ung dung tai"
+      contact_2: "trang lien he"
+    login:
+      login_0: "Dang Nhap"  
+    signup:
+      signup_0: "Dang Ky"  
+    user:
+      user_0: "Nguoi Dung"

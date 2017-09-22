@@ -8,6 +8,7 @@ class UsersController < ApplicationController
     @user = User.new user_params
 
     if user.save
+      log_in @user
       flash[:success] = t "static_pages.welcome"
       redirect_to @user
     else

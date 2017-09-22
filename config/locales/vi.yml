@@ -1,4 +1,6 @@
 vi:
+  session:
+    danger: "Sai email hoac mat khau"
   static_pages:
     error:
       error: "Loi!"
@@ -33,7 +35,11 @@ vi:
       contact_rnr: "Lien he voi Ruby on Rails Tutorial ve ung dung tai"
       contact_page: "trang lien he"
     login:  
-      login: "Dang Nhap"  
+      login: "Dang Nhap"
+      remember_me: "Ghi nho tai khoan va mat khau" 
+      new_user: "Chua co tai khoan?"
+    logout:
+      logout: "Dang Xuat" 
     signup:
       signup: "Dang Ky"
       create_acc: "Tao tai khoan"
@@ -44,3 +50,6 @@ vi:
     user:
       user: "Nguoi Dung"
       invalid_user: "Nguoi dung khong ton tai!"
+      setting: "Cai Dat"
+      profile: "Thong Tin Ca Nhan"
+      account: "Tai Khoan"

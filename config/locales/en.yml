@@ -1,4 +1,6 @@
 en:
+  session:
+    danger: "Invalid email/password combination"
   static_pages:
     error:
       error: "error"
@@ -34,7 +36,11 @@ en:
        about the sample app at the"
       contact_page: "contact page"
     login:
-      login: "Login" 
+      login: "Login"
+      remember_me: "Remember me on this computer"
+      new_user: "New user?"
+    logout:
+      logout: "Logout"  
     signup:
       signup: "Sign Up"
       create_acc: "Create my account"
@@ -45,3 +51,6 @@ en:
     user:
       user: "User"
       invalid_user: "User does not exist!"
+      setting: "Settings"
+      profile: "Profile"
+      account: "Account"

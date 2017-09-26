@@ -39,6 +39,7 @@ en:
       login: "Login"
       remember_me: "Remember me on this computer"
       new_user: "New user?"
+      pls_login: "Please log in."
     logout:
       logout: "Logout"  
     signup:
@@ -49,8 +50,18 @@ en:
       name: "Name"
       email: "Email"
     user:
+      all_user: "All Users"
       user: "User"
       invalid_user: "User does not exist!"
       setting: "Settings"
       profile: "Profile"
       account: "Account"
+      del_user: "User deleted"
+      delete: "delete"
+      sure: "You sure?"
+    edit:
+      edit: "Edit user"
+      update: "Update your profile"
+      save_change: "Save Change"
+      change: "change"
+      profile_update: "Profile updated"

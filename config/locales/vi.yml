@@ -38,6 +38,7 @@ vi:
       login: "Dang Nhap"
       remember_me: "Ghi nho tai khoan va mat khau" 
       new_user: "Chua co tai khoan?"
+      pls_login: "Hay Dang Nhap"
     logout:
       logout: "Dang Xuat" 
     signup:
@@ -48,8 +49,18 @@ vi:
       name: "Ten"
       email: "Email"
     user:
+      all_user: "Tat Ca Nguoi Dung"
       user: "Nguoi Dung"
       invalid_user: "Nguoi dung khong ton tai!"
       setting: "Cai Dat"
       profile: "Thong Tin Ca Nhan"
       account: "Tai Khoan"
+      del_user: "Da Xoa Nguoi Dung"
+      delete: "xoa"
+      sure: "Ban co chac chan khong ?"
+    edit:
+      edit: "Thay Doi"
+      update: "Update thong tin ca nhan"
+      save_change: "Luu thay doi"
+      change: "thay doi"
+      profile_update: "Da update thong tin ca nhan"

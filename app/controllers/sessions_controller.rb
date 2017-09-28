@@ -6,7 +6,7 @@ class SessionsController < ApplicationController
 
     if authenticate? user
       remember_me user
-      redirect_to user
+      redirect_back_or user
     else
       flash.now[:danger] = t "session.danger"
       render :new
